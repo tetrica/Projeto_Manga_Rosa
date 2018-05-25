@@ -1,3 +1,3 @@
 from . import DIC
 
-__all__ = ['DCI']
+__all__ = ['DIC']
